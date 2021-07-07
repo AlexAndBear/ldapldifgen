@@ -1,6 +1,6 @@
 # ldapdifgen
 Generates ldap ldif files for testing purposes (import big amount of users) 
-Desired to work with ownCloud and bitname openldap docker
+Desired to work with ownCloud and bitnami openldap docker
 
 
 ## Install
