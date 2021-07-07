@@ -1,5 +1,5 @@
 # ldapdifgen
-Generates ldap ldif files for testing purposes (import big amount of users) 
+Generates ldap ldif files for testing purposes (big amount of users) 
 Desired to work with ownCloud and bitnami openldap docker
 
 
